@@ -1,0 +1,15 @@
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\bin\Debug\net7.0\DesignPatterns.Console.exe
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\bin\Debug\net7.0\DesignPatterns.Console.deps.json
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\bin\Debug\net7.0\DesignPatterns.Console.runtimeconfig.json
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\bin\Debug\net7.0\DesignPatterns.Console.dll
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\bin\Debug\net7.0\DesignPatterns.Console.pdb
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.csproj.AssemblyReference.cache
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.AssemblyInfoInputs.cache
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.AssemblyInfo.cs
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.csproj.CoreCompileInputs.cache
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.dll
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\refint\DesignPatterns.Console.dll
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.pdb
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\DesignPatterns.Console.genruntimeconfig.cache
+C:\Users\burak.kural.AYASOFYAZILIM.000\source\repos\SoftwareDesignPatterns\DesignPatterns.Console\obj\Debug\net7.0\ref\DesignPatterns.Console.dll
